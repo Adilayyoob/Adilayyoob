@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adil Ayyoob</h1>
 <h3 align="center">Programmer | Web developer | Poster designer | Illustrator Artist.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adilayyoob&label=Profile%20views&color=0e75b6&style=flat" alt="adilayyoob" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilayyoob&theme=dracula" alt="adilayyoob" /></a> </p>
+![This is an Image i made using blender Name The apple desk](https://user-images.githubusercontent.com/67414716/132953904-1ffd6203-337a-467b-a06d-09ad2289708b.jpg)
 
 - 🔭 I’m currently working on **Flutter**
 
@@ -13,11 +11,15 @@
 
 - ⚡ Fun fact **Say "I am fealing lucky" to google assistant and see the magic**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilayyoob&show_icons=true&locale=en&layout=compact" alt="adilayyoob" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adilayyoob&label=Profile%20views&color=0e75b6&style=flat" alt="adilayyoob" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilayyoob&show_icons=true&locale=en" alt="adilayyoob" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilayyoob&theme=dracula" alt="adilayyoob" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilayyoob" alt="adilayyoob" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilayyoob&show_icons=true&locale=en&theme=dracula" alt="adilayyoob" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilayyoob&show_icons=true&locale=en&layout=compact&theme=dracula" alt="adilayyoob" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilayyoob&theme=dracula" alt="adilayyoob" /></p>
 
 [![Adil Ayyoob github activity graph](https://activity-graph.herokuapp.com/graph?username=Adilayyoob&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
